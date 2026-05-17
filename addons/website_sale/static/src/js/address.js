@@ -172,6 +172,7 @@ publicWidget.registry.websiteSaleAddress = publicWidget.Widget.extend({
      * @param {Event} ev
      */
     async _onSaveAddress(ev) {
+        debugger;
         if (!this.addressForm.reportValidity()) {
             return
         }
