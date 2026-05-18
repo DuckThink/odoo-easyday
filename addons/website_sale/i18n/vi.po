@@ -1729,7 +1729,7 @@ msgstr "Quốc gia của khách hàng"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_comment
 msgid "Customer Reviews"
-msgstr "Nhận xét của khách hàng"
+msgstr "Đánh giá"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.res_config_settings_view_form
