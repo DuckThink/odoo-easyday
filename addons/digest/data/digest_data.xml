@@ -433,8 +433,7 @@
                             <div id="footer">
                                 <p style="font-weight: bold;" t-esc="company.name" />
                                 <p class="by_odoo" id="powered">
-                                    Powered by <a href="https://www.odoo.com" target="_blank" class="odoo_link">
-                                        <span class="odoo_link_text">Odoo</span></a>
+                                    Cung cấp bởi <a target="_blank" href="https://easyday.vn" style="color: #840016;">EasyDay</a>
                                 </p>
                             </div>
                         </tr>

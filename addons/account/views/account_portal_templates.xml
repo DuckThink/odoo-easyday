@@ -250,7 +250,7 @@
         </t>
     </template>
 
-    <template id="portal_my_details_fields" inherit_id="portal.portal_my_details_fields">
+    <!-- <template id="portal_my_details_fields" inherit_id="portal.portal_my_details_fields">
         <xpath expr="//select[@name='country_id']/.." position="after">
             <t t-if="len(invoice_sending_methods) > 1 and invoice_edi_format">
                 <div class="col-12 d-none d-xl-block">
@@ -287,5 +287,5 @@
                 </div>
             </t>
         </xpath>
-    </template>
+    </template> -->
 </odoo>

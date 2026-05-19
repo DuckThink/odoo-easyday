@@ -86,7 +86,7 @@
         </div>
     </div>
     <div class="o_hr_kiosk_mode_bottom my-5 mx-auto">
-        Powered by <img t-att-height="env.isSmall ? 21 : 32" src="/web/static/img/logo.png" alt="Odoo Logo"/>
+        Cung cấp bởi <a href="https://easyday.vn" style="color: #840016;">EasyDay</a>
     </div>
 </t>
 
@@ -149,12 +149,12 @@
                         <span >Identify Manually</span>
                     </button>
                     <span>
-                        Powered by <img height="32" src="/web/static/img/logo.png" alt="Odoo Logo"/>
+                        Cung cấp bởi <a href="https://easyday.vn" style="color: #840016;">EasyDay</a>
                     </span>
                 </t>
                 <t t-else="">
                     <div class="o_hr_kiosk_mode_bottom mx-auto">
-                        Powered by <img height="32" src="/web/static/img/logo.png" alt="Odoo Logo"/>
+                        Cung cấp bởi <a href="https://easyday.vn" style="color: #840016;">EasyDay</a>
                     </div>
                 </t>
             </div>
