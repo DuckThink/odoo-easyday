@@ -4345,13 +4345,13 @@ msgstr "Số lượng:"
 #: model_terms:ir.ui.view,arch_db:sale.crm_team_view_kanban_dashboard
 #: model_terms:ir.ui.view,arch_db:sale.product_document_search
 msgid "Quotation"
-msgstr "Báo giá"
+msgstr "Đơn hàng chưa xác nhận"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.portal_my_quotations
 #: model_terms:ir.ui.view,arch_db:sale.report_saleorder_document
 msgid "Quotation #"
-msgstr "Báo giá #"
+msgstr "Đơn hàng"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_utm_campaign__quotation_count
@@ -4363,7 +4363,7 @@ msgstr "Số lượng báo giá"
 #: model_terms:ir.ui.view,arch_db:sale.report_saleorder_document
 #: model_terms:ir.ui.view,arch_db:sale.view_order_form
 msgid "Quotation Date"
-msgstr "Ngày báo giá"
+msgstr "Ngày đặt hàng"
 
 #. module: sale
 #: model:ir.model.fields.selection,name:sale.selection__sale_order__state__sent
@@ -4415,7 +4415,7 @@ msgstr "Báo giá đã xem bởi khách hàng %s"
 #: model_terms:ir.ui.view,arch_db:sale.view_order_product_search
 #: model_terms:ir.ui.view,arch_db:sale.view_quotation_tree
 msgid "Quotations"
-msgstr "Báo giá"
+msgstr "Đơn hàng chờ xác nhận"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -4435,7 +4435,7 @@ msgstr "Báo giá và bán hàng"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.portal_my_home_sale
 msgid "Quotations to review"
-msgstr "Báo giá cần xem xét"
+msgstr "Đơn hàng đang chờ xác nhận"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__rating_ids
