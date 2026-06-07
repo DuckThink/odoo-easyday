@@ -967,7 +967,7 @@ msgstr "Thêm biểu tượng cảm xúc"
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/message_actions.js:0
 msgid "Add a Reaction"
-msgstr "Thêm phản ứng"
+msgstr "Bày tỏ cảm xúc"
 
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.res_config_settings_view_form
@@ -11061,7 +11061,7 @@ msgstr "Xem trang cá nhân"
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/message_actions.js:0
 msgid "View Reactions"
-msgstr "Xem phản ứng"
+msgstr "Xem cảm xúc"
 
 #. module: mail
 #. odoo-javascript
