@@ -50,7 +50,7 @@ msgstr "Chiết khấu hấp dẫn hơn đã được áp dụng."
 #: code:addons/sale_loyalty/models/sale_order.py:0
 msgid ""
 "A minimum of %(amount)s %(currency)s should be purchased to get the reward"
-msgstr "Giá trị tối thiểu %(amount)s %(currency)s nên mua để nhận phần thưởng"
+msgstr "Cần mua tối thiểu %(amount)d %(currency)s để áp dụng mã giảm giá"
 
 #. module: sale_loyalty
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_loyalty_coupon_wizard_view_form
