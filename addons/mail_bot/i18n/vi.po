@@ -147,10 +147,10 @@ msgstr ""
 #. odoo-python
 #: code:addons/mail_bot/models/res_users.py:0
 msgid ""
-"Odoo's chat helps employees collaborate efficiently. I'm here to help you "
+"EasyDay's chat helps employees collaborate efficiently. I'm here to help you "
 "discover its features."
 msgstr ""
-"Ứng dụng trò chuyện của Odoo giúp nhân viên cộng tác hiệu quả. Tôi ở đây để "
+"Ứng dụng trò chuyện của EasyDay giúp nhân viên cộng tác hiệu quả. Tôi ở đây để "
 "giúp bạn khám phá các tính năng của ứng dụng này."
 
 #. module: mail_bot
